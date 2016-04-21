@@ -1,0 +1,6 @@
+[submodule "LatexTemplate"]
+	path = LatexTemplate
+	url = git@github.com:aroquemaurel/LaTexTemplate.git
+[submodule "beamer-theme"]
+	path = beamer-theme
+	url = git@github.com:aroquemaurel/beamer-theme.git
